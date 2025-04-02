@@ -10,8 +10,8 @@ This is a simple Ruby on Rails API that suggests **weather-appropriate outfit re
 ## 🎯 Goal
 
 Help users dress smartly for the weather by combining:
-- ####Live weather data#### (temperature, condition, wind)
-- ####Natural language AI#### for personalized fashion advice
+- Live weather data (temperature, condition, wind)
+- Natural language AI for personalized fashion advice
 
 Example prompt:  
 > "It's currently 3°C but feels like -1°C, with light rain and winds of 25 km/h. It's evening in Oslo. Suggest a complete outfit including outerwear, footwear, and accessories."
