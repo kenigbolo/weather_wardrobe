@@ -10,4 +10,5 @@ Rails.application.routes.draw do
   # root "posts#index"
 
   get '/weather', to: 'weather#index'
+  get '/recommendation', to: 'recommendations#index'
 end
