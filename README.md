@@ -131,7 +131,6 @@ Tests include:
 
 ## 📬 Contact
 
-Feel free to open an issue or PR — contributions welcome! Do kindly note that this is a hobby project to test out basic AI recommendation engines. It may or may not be actively maintained
+Feel free to open an issue or PR — contributions welcome! Do kindly note that this is a hobby project to test out basic AI recommendation engines. It may or may not be actively maintained. For information on decisions/trade-offs, see the [decisions file](https://github.com/kenigbolo/weather_wardrobe/blob/main/DECISIONS.md)
 
 ---
-```
